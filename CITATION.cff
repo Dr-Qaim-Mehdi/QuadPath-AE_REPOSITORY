@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article."
+title: "QuadPath-AE: nonce-based authenticated image encryption with keyed quad-path scrambling"
+authors:
+  - family-names: Rizvi
+    given-names: Qaim Mehdi
+    orcid: "https://orcid.org/0000-0002-0443-5314"
+version: 1.0.0
+license: MIT
